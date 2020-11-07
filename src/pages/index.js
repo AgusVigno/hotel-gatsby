@@ -20,8 +20,6 @@ const ListadoHabitaciones = styled.ul`
 
 const IndexPage = () => {
   const habitaciones = useHabitaciones();
-
-  console.log(habitaciones);
   return (
     <Layout>
       <ImagenHotel />
