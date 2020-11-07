@@ -97,3 +97,16 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+Proyecto realizado en React utilizando Gatsby, y Dato CMS.
+
+[Ver Proyecto FUNCIONANDO](https://agusvigno.github.io/hotel-gatsby). Sitio web de un Hotel, cargando información de forma dinámica utilizando de Dato CMS, y consumiendo su API.
+
+* ** *** **** ***** **** *** ** * 
+
+Recordá instalar todas las dependencias del proyecto ejecutando el comando: npm install
+
+Luego ejecuta el comando: gatsby develop
+
+La idea es con el tiempo, agregarle algunas funcionalidades.
+
+En caso de querer contribuir con alguna mejora, enviame un PULL REQUEST !!
